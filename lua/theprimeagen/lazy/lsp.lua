@@ -34,6 +34,17 @@ return {
                 "lua_ls",
                 "rust_analyzer",
                 "gopls",
+                "tsserver",
+                "jdtls",
+                "cssls",
+                "tailwindcss",
+                "dockerls",
+                "docker_compose_language_service",
+                "kubernetes",
+                "scss",
+                "github-actions",
+                "jsonls",
+                "yamlls",
             },
             handlers = {
                 function(server_name) -- default handler (optional)
